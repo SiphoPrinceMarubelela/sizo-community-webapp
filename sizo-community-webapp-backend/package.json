@@ -1,0 +1,19 @@
+{
+  "name": "sizo-community-webapp-backend",
+  "version": "1.0.0",
+  "description": "This will contain work for the project's backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiphoPrinceMarubelela/sizo-community-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiphoPrinceMarubelela/sizo-community-webapp/issues"
+  },
+  "homepage": "https://github.com/SiphoPrinceMarubelela/sizo-community-webapp#readme"
+}
