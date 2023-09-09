@@ -4,7 +4,7 @@ const app = express();
 
 //test homepage api
 app.get("/homepage", (req, res)=>{
-    res.send("Welcome to the home page")
+    res.json({"testuser": "sizoMember"})
 })
 
 
