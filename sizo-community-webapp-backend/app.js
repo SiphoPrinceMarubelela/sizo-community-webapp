@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 //test homepage api
-app.get("/homepage", (req, res)=>{
+app.get("/sizo",(req, res)=>{
     res.json({"testuser": "sizoMember"})
 })
 
